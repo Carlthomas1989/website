@@ -3,10 +3,6 @@
     box-sizing: border-box;
     padding: 1px;
 }
-/* -------------------------------------- */
-.image {
-    width: 50% auto;
-}
 
 /* -------------------------------------- */
 body {
@@ -15,8 +11,9 @@ body {
     background-color: rgb(7, 7, 7);
     background-image: url("!gutaug1");
     background-position: 0%;
-    background-position-x: 10000%;
+    background-position-x: 10%;
     background-position-y: 100%;
+    size: auto;
 }
 /* -------------------------------------- */
 #nav {
